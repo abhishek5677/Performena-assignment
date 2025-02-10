@@ -22,16 +22,16 @@ git clone https://github.com/abhishek5677/Performena-assignment.git
 cd Performena-assignment
 ```
 
-### Install Dependencies
+### 2. Install Dependencies
 ```sh
 npm install
 ```
 or
-```sh
+```s2.h
 yarn install
 ```
 
-###  Start the Project
+### 3. Start the Project
 ```sh
 npm start
 ```
